@@ -1,2 +1,2 @@
 # PlayPy
-Because learning playing is always more rewarding
+It is much more rewarding learning by playing
