@@ -1,0 +1,24 @@
+零 ?
+一 ?
+二 ?
+三 ?
+四 ?
+五 ?
+六 ?
+七 ?
+八 ?
+九 ?
+十 ?
+zero: 〇 (零) líng
+one : 一 yī 
+two : 二 èr 
+three : 三 sān
+four : 四 sì
+five : 五 wǔ
+six : 六 liù
+seven : 七 qī
+eight : 八 bā
+nine : 九 jiǔ
+ten : 十 shí
+
+
